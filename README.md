@@ -40,11 +40,28 @@
 * 📊 Working with Excel and Power BI for dashboards and reports.
 * 📈 Interested in Data Cleaning, Exploratory Data Analysis and Business Insights.
 * 🚀 Building practical projects to improve my Data Analytics skills.
-* 📫 How to reach me: <a href="mailto:kul157982@gmail.com">[kul157982@gmail.com](mailto:kul157982@gmail.com)</a>
+* 📫 Email: <a href="mailto:kul157982@gmail.com">[kul157982@gmail.com](mailto:kul157982@gmail.com)</a>
+
 
 <br>
 
-# 💻 Tech Stack:
+# 🧠 Core Skills
+
+<div align="left">
+
+<img src="https://img.shields.io/badge/Data%20Cleaning-4B8BBE?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/EDA-306998?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Data%20Visualization-6A5ACD?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Dashboard%20Development-217346?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/SQL%20Analysis-4479A1?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Excel%20Analysis-217346?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Business%20Insights-555555?style=for-the-badge"/>
+
+</div>
+
+<br>
+
+# 💻 Tech Stack
 
 <div align="left">
 
@@ -63,9 +80,18 @@
 </div>
 
 <br>
+
+# 📂 Featured Project
+
+### 📊 Excel Expense Management Dashboard
+
+Interactive Excel dashboard built using **Pivot Tables, charts and data analysis**.
+
+🔗 [View Project](https://github.com/LuckyKumarDA/Expenses-Dashboard)
+
 <br>
 
-# 🔥 My Stats:
+# 🔥 My Stats
 
 <div align="center">
 
