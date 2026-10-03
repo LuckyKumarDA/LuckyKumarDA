@@ -15,15 +15,15 @@
 
 <div align="center">
 
-  <a href="YOUR_LINKEDIN_URL">
+  <a href="https://www.linkedin.com/in/luckykumar-analyst/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 
-  <a href="YOUR_KAGGLE_URL">
+  <a href="#">
     <img src="https://img.shields.io/badge/Kaggle-blue?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle Badge"/>
   </a>
 
-  <a href="YOUR_HACKERRANK_URL">
+  <a href="#">
     <img src="https://img.shields.io/badge/HackerRank-darkgreen?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank Badge"/>
   </a>
 
