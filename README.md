@@ -1,57 +1,130 @@
-
+<table>
   <tr>
     <td align="left" width="30%">
-      <strong>Hi, I’m Kumod 👋</strong>
+      <strong>Hi, I'm Lucky Kumar 👋</strong>
     </td>
     <td align="center" width="70%">
-      <h1>Data Science Trainer | Applied Data Analytics</h1>
+      <h1>Aspiring Data Analyst</h1>
     </td>
   </tr>
 </table>
 
-       
-<img src="https://komarev.com/ghpvc/?username=kumod007&style=flat-square&color=blue" alt=""/>
-
 <div align="center">
-  
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="350" height="200"/>
+
+  <img src="https://komarev.com/ghpvc/?username=LuckyKumarDA&style=flat-square&color=blue" alt="Profile Views"/>
+
 </div>
+
 <div align="center">
-<div id="badges">
-  <a href="https://www.linkedin.com/in/kumod-sharma-ab999124b/">
-    <img src="https://img.shields.io/badge/LinkedIn-darkblue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="350" height="200"/>
+
+</div>
+
+<div align="center">
+
+  <a href="https://github.com/LuckyKumarDA">
+    <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
   </a>
-  <a href="https://www.kaggle.com/kdsharma">
-    <img src="https://img.shields.io/badge/Kaggle-blue?style=for-the-badge&logo=Kaggle&logoColor=black" alt="Kaggle Badge"/>
+
+  <a href="mailto:kul157982@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
   </a>
-  <a href="https://www.hackerrank.com/Kumod_Sharma?hr_r=1">
-    <img src="https://img.shields.io/badge/HackerRank-darkgreen?style=for-the-badge&logo=hackerrank&logoColor=black" alt="HackerRank Badge"/>
-  </a></div></div>
 
-
-
-<h1>About Me ❤️</h1>
-
-- 💡 Data Science Enthusiast with a background in Mathematics.
-- 🎓 Accomplished the requirements for a prestigious Diploma in Data Science.
-- 🏢 Currently employed as a Data Analyst in a Marketing Research company.
-- ⚡ In my free time, I love to solve problems on HackerRank and read tech articles.
-- 😆 Fun fact: If data science were a sport, I'd be the MVP of finding patterns in numbers and predicting the future!
-- 📫 How to reach me: <a href="mailto:kumod.aws@gmail.com">kumod.aws@gmail.com</a> | or connect with me on <a href="https://www.linkedin.com/in/kumod-sharma/">My LinkedIn.</a>
-- <p>✍️ Check out my blogs on topics related to data science. You can find them on my <a href="https://medium.com/@kumod.aws">blog profile</a>.</p>
+</div>
 
 <br>
+
+# 👨‍💻 About Me
+
+* 👋 Hi, I'm **Lucky Kumar**, an aspiring **Data Analyst**.
+* 🎓 Currently pursuing **B.Com (Hons.)**.
+* 📊 Interested in **Data Analytics, Data Visualization and Business Insights**.
+* 🐍 Currently working with **Python and Pandas** for data analysis.
+* 🗄️ Learning and practicing **SQL** for data querying and analysis.
+* 📈 Building dashboards and reports using **Microsoft Excel and Power BI**.
+* 💻 Creating practical projects and maintaining my work on **GitHub**.
+* 🚀 Continuously improving my analytical and technical skills.
+* 📫 Email: **[kul157982@gmail.com](mailto:kul157982@gmail.com)**
+
 <br>
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=azure-devops&logoColor=white) ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+# 💻 Tech Stack
 
+### Programming & Data Analysis
+
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge\&logo=python\&logoColor=ffdd54)
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas\&logoColor=white)
+
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge\&logo=numpy\&logoColor=white)
+
+### Database
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
+
+### Data Visualization & Reporting
+
+![Microsoft Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge\&logo=microsoftexcel\&logoColor=white)
+
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge\&logo=powerbi\&logoColor=black)
+
+### Tools
+
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
+
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge\&logo=jupyter\&logoColor=white)
+
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge\&logo=visualstudiocode\&logoColor=white)
 
 <br>
+
+# 📂 Featured Projects
+
+### 📊 Excel Expense Management Dashboard
+
+Interactive Excel dashboard using **Pivot Tables, charts and data analysis**.
+
+### 🛡️ Cyber Threat & Incident Intelligence Dashboard
+
+Data analysis and visualization project based on global cybersecurity threat data.
+
+### 🚕 NYC Yellow Taxi EDA
+
+Exploratory Data Analysis project using **Python, Pandas and data visualization**.
+
 <br>
 
-# :fire: My Stats:
+# 📚 Currently Learning
 
+* 🐍 Python for Data Analysis
+* 🗄️ SQL
+* 📊 Microsoft Excel
+* 📈 Power BI
+* 🤖 Generative AI for Data Analytics
+* 🧹 Data Cleaning & Exploratory Data Analysis
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=kumod007&theme=highcontrast&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+<br>
 
+# 🔥 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=LuckyKumarDA&show_icons=true&theme=dark" alt="Lucky Kumar GitHub Stats"/>
+
+<br><br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=LuckyKumarDA&theme=dark" alt="GitHub Streak"/>
+
+</div>
+
+<br>
+
+# 📫 Connect With Me
+
+* 📧 Email: **[kul157982@gmail.com](mailto:kul157982@gmail.com)**
+* 💻 GitHub: **LuckyKumarDA**
+
+---
+
+⭐ Thanks for visiting my profile!
